@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.67fc1d3b6418935a0c7cadc339267227.js"
+  "/precache-manifest.5f753afacec0caf60c161f816bb62c34.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "piovani"});
