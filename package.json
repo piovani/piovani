@@ -2,7 +2,9 @@
   "name": "piovani",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://piovani.github.io/piovani/",
   "scripts": {
+    "deploy": "yarn build && ./node_modules/.bin/gh-pages -d dist",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
@@ -29,6 +31,7 @@
     "chai": "^4.1.2",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "gh-pages": "^2.0.1",
     "material-design-icons-iconfont": "^5.0.1",
     "sass": "^1.18.0",
     "sass-loader": "^7.1.0",
