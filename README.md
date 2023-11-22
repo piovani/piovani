@@ -8,8 +8,8 @@
 
 <br />
 
-<!--    
-## Tech Stack
+<!--
+Tech Stack
 -->
 
 ## GitHub Stats
