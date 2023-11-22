@@ -4,7 +4,7 @@
 
 - 🦾 Software Enginner at <a href="https://picpay.com/" target="_blank">PicPay</a>
 - 🐿️ Go / Golang Evangelist
-- 🎬 YouTuber at Channel <a src="https://www.youtube.com/@ap_tech0" target="_blank">AP Tech</a>
+- 🎬 YouTuber at Channel <a href="https://www.youtube.com/@ap_tech0">AP Tech</a>
 
 ## Social Media
 <a href="https://www.linkedin.com/in/allison-piovani/?locale=en_US" target="_blank">
