@@ -14,7 +14,7 @@
 <div aligh="center">
   <a href="https://githbu.com/piovani">
     <img src="http://github-readme-stats.vercel.app/api?username=piovani&count_private=true&show_icons=true&theme=github_dark" height="172em" style="max-width: 100%;" />
-    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=piovani&layout=compact&theme="github_dark" height="172em" style="max-width: 100%;" />
+    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=piovani&layout=compact&theme=github_dark" height="172em" style="max-width: 100%;" />
   </a>
 </div>
 
