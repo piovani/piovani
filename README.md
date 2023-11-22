@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=piovani&color=yellow" alt="Profile Views" aligh="right"/>
+
+<h1 align="left">Hi There, I'm Allison Piovani 💻</h1>
 
 <!--
 **piovani/piovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
