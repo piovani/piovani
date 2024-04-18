@@ -27,3 +27,9 @@ Tech Stack
 <a href="https://www.linkedin.com/in/allison-piovani/?locale=en_US" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=007ACC" alt="Linkedin" />
 </a>
+<a href="https://dev.to/allisonpiovani" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="https://www.youtube.com/@ap_tech0" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev.to" />
+</a>
