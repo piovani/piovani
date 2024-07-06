@@ -4,6 +4,7 @@
 
 - 🦾 Software Enginner at <a href="https://picpay.com/" target="_blank">PicPay</a>
 - 🐿️ Go / Golang Evangelist
+- 🧑🏼‍💻 Developer in Go, PHP, Node and Python languages
 - 🎬 YouTuber at Channel <a href="https://www.youtube.com/@ap_tech0" target="_blank">AP Tech</a>
 
 <br />
