@@ -6,6 +6,7 @@
 - 🐿️ Go / Golang Evangelist
 - 🧑🏼‍💻 Developer in Go, PHP, Node and Python languages
 - 🎬 YouTuber at Channel <a href="https://www.youtube.com/@ap_tech0" target="_blank">AP Tech</a>
+- 📝 Writer at <a href="https://dev.to/allisonpiovani">Dev Community</a>
 
 <br />
 
