@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=piovani&color=yellow" alt="Profile Views" aligh="right" />
+<img src="https://komarev.com/ghpvc/?username=piovani&color=blue" alt="Profile Views" aligh="right" />
 
 <h1 align="left"> Allison Piovani </h1>
 
