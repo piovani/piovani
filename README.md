@@ -1,31 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=piovani&color=yellow" alt="Profile Views" aligh="right" />
 
-<h1 align="left">Hi There, I'm Allison Piovani 💻</h1>
+<h1 align="left"> Allison Piovani </h1>
 
-- 🦾 Software Enginner at <a href="https://picpay.com/" target="_blank">PicPay</a>
-- 🐿️ Go / Golang Evangelist
-- 🧑🏼‍💻 Developer in Go, PHP, Node and Python languages
-- 🎬 YouTuber at Channel <a href="https://www.youtube.com/@ap_tech0" target="_blank">AP Tech</a>
-- 📝 Writer at <a href="https://dev.to/allisonpiovani">Dev Community</a>
-
-<br />
-
-<!--
-Tech Stack
--->
-
-## GitHub Stats
-<div aligh="center">
-  <a href="https://githbu.com/piovani">
-   
-    <img src="http://github-readme-stats.vercel.app/api?username=piovani&count_private=true&show_icons=true&theme=github_dark" height="172em" style="max-width: 100%;" /> 
-
-    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=piovani&layout=compact&theme=github_dark" height="172em" style="max-width: 100%;" />
-  </a>
-</div>
-
-
-## Social Media
 <a href="https://www.linkedin.com/in/allison-piovani/?locale=en_US" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=007ACC" alt="Linkedin" />
 </a>
@@ -35,3 +11,32 @@ Tech Stack
 <a href="https://www.youtube.com/@ap_tech0" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev.to" />
 </a>
+
+</br>
+
+<h3>🖖🏻 Hi There, I'm Allison</h3>
+
+<p>
+📚 I graduated in Computer Science from <a href="https://uninga.br/" target="_blank">Uningá</a>.
+</p>
+
+<p>
+🧑🏼‍💻 I've been a software developer since 2017. And I'm currently a software engineer at <a href="https://picpay.com/" target="_blank">PicPay</a>
+</p>
+
+<br />
+
+[![My Skills](https://skillicons.dev/icons?i=php,go,mysql,postgres,mongo,aws,bash,git,github,nodejs,javascript,typescript)](https://skillicons.dev)
+
+<br />
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piovani&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=piovani&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center> 
+
+
