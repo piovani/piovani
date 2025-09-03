@@ -21,7 +21,7 @@
 </p>
 
 <p>
-🧑🏼‍💻 I've been a software developer since 2017. And I'm currently a software engineer at <a href="https://picpay.com/" target="_blank">PicPay</a>.
+🧑🏼‍💻 I've been a software developer since 2017. And I'm currently a software engineer at <a href="https://cleveradvertising.com/" target="_blank">Clever Advertising</a>.
 </p>
 
 <br />
