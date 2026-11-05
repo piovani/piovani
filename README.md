@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=piovani&color=blue" alt="Profile Views" aligh="right" />
+<img src="https://komarev.com/ghpvc/?username=piovani&color=blue" alt="Profile Views" align="right" />
 
 <h1 align="left"> Allison Piovani</h1>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev.to" />
 </a>
 
-</br>
+<br />
 
 <h3>🖖🏻 Hi There, I'm Allison!</h3>
 
@@ -33,8 +33,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piovani&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=piovani&theme=tokyonight"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=piovani&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.hackclub.dev/api?username=piovani&theme=tokyonight"/></td>
     </tr>   
 </table>
 </center> 
