@@ -33,8 +33,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=piovani&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.hackclub.dev/api?username=piovani&theme=tokyonight"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=piovani&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-fast.vercel.app/api?username=piovani&theme=tokyonight"/></td>
     </tr>   
 </table>
 </center> 
