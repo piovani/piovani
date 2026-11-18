@@ -38,7 +38,9 @@ I write and record about backend engineering, mostly Go and cloud:
 - *4 Reasons for your Company to use Go*, *Why doesn't Go have Ternary?*, *UUID*: all on [dev.to](https://dev.to/allisonpiovani)
 - Videos on Go, AWS and developer tooling on [Piovani.Dev (YouTube)](https://www.youtube.com/@ap_tech0)
 
-## Featured project
+## Featured projects
+
+**[RAGscope](https://github.com/piovani/RAGscope)**: a Go lab that benchmarks RAG configurations on Brazil's data protection law (LGPD), with a golden set and confidence intervals.
 
 **[oracle](https://github.com/piovani/oracle)**: a Go CLI that syncs B3 stock quotes into Postgres, builds next-day swing-trade plans and backtests them day by day. Unit and integration tested.
 
