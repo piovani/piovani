@@ -40,6 +40,8 @@ I write and record about backend engineering, mostly Go and cloud:
 
 ## Featured projects
 
+**[pix_fake](https://github.com/piovani/pix_fake)**: a Pix wallet in Go + gRPC built against mocks of Bacen's DICT and SPI (ISO 20022), with the same contracts as the real thing. End-to-end tested, observable with OpenTelemetry and Grafana, and driven by a web simulator.
+
 **[RAGscope](https://github.com/piovani/RAGscope)**: a Go lab that benchmarks RAG configurations on Brazil's data protection law (LGPD), with a golden set and confidence intervals.
 
 **[oracle](https://github.com/piovani/oracle)**: a Go CLI that syncs B3 stock quotes into Postgres, builds next-day swing-trade plans and backtests them day by day. Unit and integration tested.
