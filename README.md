@@ -24,18 +24,21 @@ I work at [Clever Advertising](https://cleveradvertising.com/), on the backend o
 
 | Area | Tools |
 | --- | --- |
-| Languages | Go, PHP |
-| Data | PostgreSQL (also MySQL, MongoDB) |
-| Cloud | AWS |
-| Messaging and APIs | Kafka, gRPC, REST |
-| Tooling | Docker, Git, GitHub Actions |
+| Languages | Go, PHP, Java, Python, Node.js |
+| Data | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch / OpenSearch |
+| Cloud | AWS, GCP (basic) |
+| Messaging and APIs | Kafka, SQS / SNS, Pub/Sub, Pulsar, RabbitMQ, NATS, gRPC, REST, GraphQL, WebSockets |
+| Infra | Docker, Kubernetes, Helm, ArgoCD, Terraform, Vault |
+| Observability | OpenTelemetry, Grafana, Prometheus, Jaeger, New Relic, Datadog, Sentry |
+| Dev tooling | Git, GitHub Actions, GitLab CI, SonarQube, Jira, Postman / Insomnia |
+| AI | Claude, Gemini, Cursor, GitHub Copilot |
 
 ## Writing and videos
 
 I write and record about backend engineering, mostly Go and cloud:
 
 - [Go with ARM](https://www.linkedin.com/pulse/go-arm-allison-piovani-tvwuf) (also on dev.to)
-- *4 Reasons for your Company to use Go*, *Why doesn't Go have Ternary?*, *UUID*: all on [dev.to](https://dev.to/allisonpiovani)
+- [4 Reasons for your Company to use Go](https://dev.to/apiovanidev/4-reasons-for-your-company-to-use-go-3e5l), [Why doesn't Go have Ternary?](https://dev.to/apiovanidev/why-doesnt-go-have-ternary-4anl), [UUID](https://dev.to/apiovanidev/uuid-4pmd): all on [dev.to](https://dev.to/allisonpiovani)
 - Videos on Go, AWS and developer tooling on [Piovani.Dev (YouTube)](https://www.youtube.com/@ap_tech0)
 
 ## Featured projects
